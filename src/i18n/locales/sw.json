@@ -1,0 +1,21 @@
+{
+  "welcome": "Karibu kwenye DialyCare+",
+  "login": "Ingia",
+  "signup": "Jisajili",
+  "email": "Barua Pepe",
+  "password": "Nenosiri",
+  "dashboard": "Dashibodi",
+  "food_tracking": "Kufuatilia Chakula",
+  "blood_sugar": "Sukari Kwenye Damu",
+  "dialysis": "Usafishaji Damu (Dialysis)",
+  "medications": "Dawa",
+  "water_intake": "Kunywa Maji",
+  "profile": "Wasifu",
+  "settings": "Mipangilio",
+  "emergency": "Dharura",
+  "safe_food": "Chakula Salama",
+  "warning": "Onyo",
+  "high_potassium": "Chakula hiki kina potasiamu nyingi na kinaweza kuwa hatari kwa wagonjwa wa figo.",
+  "add_record": "Ongeza Rekodi",
+  "save": "Hifadhi"
+}

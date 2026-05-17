@@ -1,0 +1,21 @@
+{
+  "welcome": "Welcome to DialyCare+",
+  "login": "Login",
+  "signup": "Sign Up",
+  "email": "Email Address",
+  "password": "Password",
+  "dashboard": "Dashboard",
+  "food_tracking": "Food Tracking",
+  "blood_sugar": "Blood Sugar",
+  "dialysis": "Dialysis",
+  "medications": "Medications",
+  "water_intake": "Water Intake",
+  "profile": "Profile",
+  "settings": "Settings",
+  "emergency": "Emergency",
+  "safe_food": "Safe Food",
+  "warning": "Warning",
+  "high_potassium": "This food has high potassium and may not be safe for dialysis patients.",
+  "add_record": "Add Record",
+  "save": "Save"
+}
